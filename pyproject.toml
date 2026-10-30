@@ -9,7 +9,7 @@ description = "Rigorous, reproducible computational research platform for studyi
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "PNP Research Laboratory Contributors" }]
+authors = [{ name = "Fernando Lizana" }]
 keywords = ["complexity", "SAT", "NP-complete", "research", "reproducibility"]
 dependencies = [
     "fastapi>=0.115.0",

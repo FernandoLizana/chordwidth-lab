@@ -1,4 +1,4 @@
-# Bastardus — Laboratorio de investigación (P vs NP / ChordWidth) y estudio de IA en matemáticas formales
+# ChordWidth Lab — estudio de IA en matemáticas formales (P vs NP)
 
 > **Este repositorio documenta un estudio empírico:** cómo se comportan modelos de IA (agentes de código + asistentes) al atacar un problema matemático duro, con evidencia computacional, formalización en Lean 4 y disciplina de honestidad científica.
 >

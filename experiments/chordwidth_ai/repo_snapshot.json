@@ -1,5 +1,5 @@
 {
-  "repo_root": "bastardus",
+  "repo_root": ".",
   "branch": "research/chordwidth-universal-ai",
   "files_touched_session": [
     "lean/PNPLab/ChordWidth/BaseCaseTwoChords/ArcLengths.lean",

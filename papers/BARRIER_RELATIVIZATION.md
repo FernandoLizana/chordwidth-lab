@@ -20,7 +20,7 @@ Los **lower bounds de ancho de resolución** para fórmulas Tseitin concretas:
 - **No** se formulan naturalmente como separación relativizada P vs NP.
 - No compiten directamente con la barrera: no son candidatos a “prueba de P≠NP vía oráculo”.
 
-## Por qué el lab bastardus no la viola (ni la esquiva)
+## Por qué este laboratorio no la viola (ni la esquiva)
 
 | Aspecto | Estado |
 |---------|--------|

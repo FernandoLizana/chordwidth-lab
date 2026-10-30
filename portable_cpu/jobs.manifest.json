@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "description": "Portable CPU jobs for ChordWidth / bastardus. All paths relative to repo root.",
+  "description": "Portable CPU jobs for ChordWidth. All paths relative to repo root.",
   "defaults": {
     "python": "portable_cpu/.venv/bin/python",
     "lean_threads": 0,

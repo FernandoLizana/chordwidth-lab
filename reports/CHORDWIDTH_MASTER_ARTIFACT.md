@@ -1,7 +1,7 @@
 # ChordWidth — Artefacto maestro (estado + vías de ataque)
 
 **Generado:** 2026-08-03  
-**Workspace:** `bastardus`  
+**Workspace:** repositorio  
 **Build gate:** `lake build PNPLab.ChordWidth.Main` → **1270/1270 jobs**, sin `sorry`/`admit`/axioma propio  
 **Aislamiento:** no importado en `PNPLab.lean`; track 461 casos intacto  
 

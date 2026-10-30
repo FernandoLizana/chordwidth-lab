@@ -124,7 +124,7 @@ export default function CategoryCE5Hallazgos() {
         <Pill tone="success">Category C — infra cerrada</Pill>
         <H1>Hallazgos y descubrimientos — Width vs Δ / E5</H1>
         <Text style={{ color: tokens.text.secondary, lineHeight: 1.5 }}>
-          Síntesis de todo lo construido, verificado y limitado en el repo bastardus (crossing law paramétrica,
+          Síntesis de todo lo construido, verificado y limitado en este repositorio (crossing law paramétrica,
           proyección G→R, perm topology, puente Mathlib). Actualizado tras build GREEN del 31 jul 2026 18:41.
         </Text>
       </Stack>
@@ -255,7 +255,7 @@ export default function CategoryCE5Hallazgos() {
       </Callout>
 
       <Text style={{ color: tokens.text.muted, fontSize: 11 }}>
-        Canvas generado 2026-08-02 · repo bastardus · Lean 4.32.0 + Mathlib v4.32.0
+        Canvas generado 2026-08-02 · este repositorio · Lean 4.32.0 + Mathlib v4.32.0
       </Text>
     </Stack>
   );

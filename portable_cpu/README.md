@@ -11,7 +11,7 @@ Todo vive **dentro de esta carpeta + el repo**. Copia el proyecto completo al no
 ## Setup (una vez)
 
 ```bash
-cd /path/to/bastardus
+cd /path/to/<repo>
 bash portable_cpu/bin/setup_ubuntu.sh
 ```
 
